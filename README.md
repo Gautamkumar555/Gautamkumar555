@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gautamkumar
 - 👀 I’m interested in coding programming and hacking also
-- 🌱 I’m current tying to learn rust
+- 🌱 I’m current tying to learn javascript 
 - 📫 How to reach me my mail is gk772269@gmail.com
-- ⚡ Fun fact: there is no limit of age when you are learning something new
+- ⚡ Fun fact: there is no limit of age when you are learning something
