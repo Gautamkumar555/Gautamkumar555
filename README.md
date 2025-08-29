@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **CPP For ESP8266**
 
-- 👨‍💻 All of my projects are available at [github.com/gautamkumar555](gautamkumar555)
+- 👨‍💻 All of my projects are available at [github.com/gautamkumar555]
 
 - 📫 How to reach me **gk772269@gmail.com**
 
