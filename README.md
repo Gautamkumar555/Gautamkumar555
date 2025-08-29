@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamkumar555&label=Profile%20views&color=0e75b6&style=flat" alt="gautamkumar555" /> </p>
 
 
-- 🌱 I’m currently learning **Python Pandas**
+- 🌱 I’m currently learning **CPP For ESP8266**
 
 - 👨‍💻 All of my projects are available at [github.com/gautamkumar555](github.com/gautamkumar555)
 
